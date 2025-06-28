@@ -1,0 +1,9 @@
+flask==2.3.3
+flask-cors==4.0.0
+pandas==2.1.1
+openpyxl==3.1.2
+pdfplumber==0.9.0
+PyPDF2==3.0.1
+sendgrid==6.10.0
+twilio==8.5.0
+werkzeug==2.3.7

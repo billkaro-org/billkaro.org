@@ -10,3 +10,5 @@ twilio==8.5.0
 werkzeug==2.3.7
 # trigger redeploy
 # trigger redeploy again
+setuptools>=42
+wheel
